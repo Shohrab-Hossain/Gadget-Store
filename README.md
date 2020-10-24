@@ -1,5 +1,15 @@
 # gadget-store
 
+## JSON-SERVER installation
+```
+npm install -g json-server
+```
+
+## JSON-SERVER start
+```
+json-server db.js --watch
+```
+
 ## Project setup
 ```
 npm install
